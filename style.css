@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(48, 8, 141, 0.817);
+}
+
+p{
+    color: rgb(77, 77, 223);
+}
+
+h1{
+    font-style: italic;
+}
+
+.mathias{
+    color: cadetblue;
+    font-size: 70%
+}
+
+.imagem1{
+    largura: 80%;
+}
